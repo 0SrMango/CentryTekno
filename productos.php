@@ -75,7 +75,7 @@
               <center>
               <img src='$img_preview' alt='' width='70%'>
               
-              <button class='btn btn-outline-light' title='$name_product[$i]' data-toggle='popover' data-placement='right' data-content='Descripcion'>See Profile</button>
+              <button class='btn btn-outline-light' title='$name_product[$i]' data-toggle='popover' data-placement='right' data-content='Descripcion'>Ver descripcion</button>
               
               <br>
                         
