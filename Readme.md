@@ -1,2 +1,0 @@
-# CentryTekno
-Derechos Reservados
